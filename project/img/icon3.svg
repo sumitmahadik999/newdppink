@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="327" viewBox="0 0 440 327">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+        stroke: #333;
+      }
+
+      .cls-1 {
+        stroke-width: 15px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #333;
+      }
+
+      .cls-3 {
+        stroke-width: 10px;
+      }
+
+      .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #f0b436;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" x="41.719" y="40.219" width="356" height="247.031" rx="10" ry="10"/>
+  <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-2" x="15.875" y="296.406" width="410.406" height="21.344" rx="10" ry="10"/>
+  <path id="Rounded_Rectangle_3_copy" data-name="Rounded Rectangle 3 copy" class="cls-3" d="M161.388,64.861H352.345a20,20,0,0,1,20,20V204.1a20,20,0,0,1-20,20H234.728L160.7,284.6l0.684-60.5a20,20,0,0,1-20-20V84.861A20,20,0,0,1,161.388,64.861Z"/>
+  <path id="Rounded_Rectangle_3" data-name="Rounded Rectangle 3" class="cls-4" d="M91.388,8.861H268.345a20,20,0,0,1,20,20V132.1a20,20,0,0,1-20,20H164.728L90.7,212.6l0.684-60.5a20,20,0,0,1-20-20V28.861A20,20,0,0,1,91.388,8.861Z"/>
+  <circle class="cls-5" cx="119.5" cy="81.656" r="16.875"/>
+  <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-5" cx="175.5" cy="81.656" r="16.875"/>
+  <circle id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-5" cx="231.5" cy="81.656" r="16.875"/>
+</svg>

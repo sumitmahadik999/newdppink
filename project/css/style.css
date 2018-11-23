@@ -1,0 +1,636 @@
+body {
+    border-top: 4px solid #f0b436;
+    background: url("../img/bod-bg.png") 0 0 repeat-x;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #333;
+    line-height: 1;
+    width: unset;
+}
+
+.wrapper {
+    padding: 0 15px;
+}
+
+.roboto-light {
+    font-weight: 300;
+}
+
+.roboto-medium {
+    font-weight: 500;
+}
+
+.roboto-bold {
+    font-weight: 700;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #333;
+    font-weight: 300;
+}
+
+.navbar-expand-lg .navbar-nav .nav-item:last-child a {
+    font-weight: 500;
+    display: block;
+    cursor: pointer;
+}
+
+.navbar-expand-lg .navbar-nav .nav-item:last-child a span {
+    font-size: 22px;
+}
+
+.navbar-light .navbar-toggler {
+    border: 0;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background: url("../img/toggler-icon.png") 0 0 no-repeat;
+}
+
+.navbar-brand img {
+    width: 128px;
+}
+
+.navbar {
+    padding: .5rem 0;
+}
+
+.no-margin-mobile {
+    margin: 0;
+}
+
+.button {
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+.primary-button {
+    background: #d02652;
+    border: 1px solid #d02652;
+}
+
+.secondary-button {
+    background: #262626;
+    border: 1px solid #262626;
+}
+
+.margin-l-15 {
+    margin-left: 15px;
+}
+
+
+.header-link {
+    color: #d02652;
+    text-decoration: underline;
+}
+
+.banner-container {
+    margin: 10px 0 15px;
+}
+
+.banner-cards {
+    /*background: #f0b436;
+    height: 154px;
+    border-left: 1px solid #fff;
+    border-bottom: 1px dashed #fff;
+    margin: 0 -15px;*/
+}
+
+.card-title {
+    font-size: 24px;
+    display: inline-block;
+    margin: 75px 0 10px;
+    color: #333;
+}
+
+.card-text {
+    font-size: 14px;
+}
+
+.doctor247-card {
+    background: url(../img/icon1.svg) 50% 20px #f0b436 no-repeat;
+    background-size: 25%;
+}
+
+.book-online-card {
+    background: url(../img/icon2.svg) 50% 20px #f0b436 no-repeat;
+    background-size: 25%;
+}
+
+.web-chat-card {
+    background: url(../img/icon3.svg) 50% 25px #f0b436 no-repeat;
+    background-size: 25%;
+}
+
+.doctor-calls-card {
+    background: url(../img/icon4.svg) 50% 18px #f0b436 no-repeat;
+    background-size: 25%;
+}
+
+.header-link {
+    float: right;
+}
+
+.btn-secondary {
+    background: #302f2f;
+}
+
+.quick-connect-conainer {
+    background: url(../img/quick-con-bg-mobile.png) 50% 100% no-repeat;
+    padding: 150px 25px 25px;
+    background-size: 100%;
+    min-height: 520px;
+}
+
+.quick-connect-conainer .btn-secondary {
+    padding: 1rem 1.25rem;
+    font-size: 1.3rem;
+    border-radius: 10px;
+    margin: 15px 0;
+    color: #e0e0e0;
+    height: auto;
+    line-height: normal;
+    background: url("../img/dropdown-arrow.jpg") 90% 50% no-repeat #302f2f;
+}
+
+.quick-connect-conainer .search-button {
+    margin: 15px 0;
+    width: 100%;
+}
+
+.why-dp-container {
+    margin: 40px 0;
+}
+
+.title {
+    font-size: 1.8rem;
+    background: url("../img/border.jpg") 50% 100% no-repeat;
+    padding-bottom: 15px;
+}
+
+.why-dp-tab {
+    background: url("../img/choose-dp-bg.png") 50% 0 no-repeat;
+    padding-top: 20px;
+}
+
+.why-dp-tab.tab-2 {
+    padding-top: 51px;
+}
+
+.why-dp-tab.tab-3 {
+    padding-top: 91px;
+}
+
+.why-dp-tab.tab-3 .content-div {
+    margin-top: 10px;
+}
+
+.why-dp-tab.tab-4 {
+    padding-top: 40px;
+}
+
+.why-dp-tab .content-div {
+    border: 1px solid #d4d4d4;
+    border-radius: 10px;
+    padding: 1.5rem;
+    box-shadow: 0px 3px 11px 0px rgba(119, 119, 119, 0.3);
+    -moz-box-shadow: 0px 3px 11px 0px rgba(119, 119, 119, 0.3);
+    -webkit-box-shadow: 0px 3px 11px 0px rgba(119, 119, 119, 0.3);
+}
+
+.pink-text {
+    color: #d02652;
+}
+
+.content-title {
+    font-size: 22px;
+}
+
+.why-dp-tab .content-div p {
+    font-size: 0.9rem;
+    line-height: 1.3rem;
+}
+
+.testimonial {
+    width: 65%;
+    height: auto;
+    padding: 20px 20px;
+    color: #fff;
+    font-weight: 300;
+    line-height: 1.4rem;
+    position: relative;
+    margin: -175px 0 10px 35%;
+}
+
+.testimonial p {
+    padding: 0 10px;
+    font-size: 0.8rem;
+}
+
+.pink-bg {
+    background: #d02652;
+    opacity: 0.8;
+}
+
+.black-bg {
+    background: #000;
+    opacity: 0.8;
+}
+
+.fa-quote-left {
+    position: absolute;
+    left: 15px;
+}
+
+.fa-quote-right {
+    position: absolute;
+    right: 20px;
+    margin-top: -30px;
+}
+
+.testimonial2 {
+    margin: -275px 0 10px 35%;
+}
+
+.testimonial3 {
+    margin: -275px 0 10px 0px;
+}
+
+.testimonial4 {
+    margin: -127px 0 10px 0px;
+}
+
+.newsletter-container {
+    background: url("../img/newsletter-bg-mobile.png") 50% 100% no-repeat;
+    min-height: 342px;
+}
+
+.Subscribe-div {
+    margin-top: 46px;
+}
+
+.subscribe-container {
+    border: 1px solid #d4d4d4;
+    border-radius: 10px;
+    padding: 15px 10px;
+    background: #fff;
+}
+
+.subscribe-container .form-control {
+    border: 0;
+
+}
+
+.subscribe-container .primary-button {
+    width: 100%;
+}
+
+.divider {
+    height: 1px;
+    width: 100%;
+    padding-bottom: 15px;
+    box-shadow: 0px 2px 3px 0px rgba(119, 119, 119, 0.6);
+    -moz-box-shadow: 0px 2px 3px 0px rgba(119, 119, 119, 0.6);
+    -webkit-box-shadow: 0px 2px 3px 0px rgba(119, 119, 119, 0.6);
+}
+
+.footer-head {
+    font-size: 16px;
+    margin: 1.8rem 0;
+}
+
+.sitemap {
+    color: #000;
+    margin: 30px 0 20px;
+
+}
+
+.sitemap ul,
+.sitemap li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sitemap li a {
+    font-size: 14px;
+    margin: 10px 0;
+    display: inline-block;
+    color: #000;
+}
+
+.address-div {
+    font-size: 14px;
+    width: 80%;
+    line-height: 1.4rem;
+}
+
+.social-media a {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.footer {
+    background: #d02652;
+    padding: 10px 0;
+    color: #fff;
+    font-size: 14px;
+    line-height: 1.4rem;
+}
+
+.footer a {
+    color: #fff;
+    font-size: 13px;
+    margin: 0;
+    width: 48%;
+    display: inline-block;
+}
+
+.footer a:last-child {
+    text-align: right;
+}
+
+.mobile-head-button {
+    margin-bottom: 10px;
+}
+
+.footer-logo {
+    width: 30%;
+}
+
+@media (min-width: 768px) {
+    .header-text {
+        float: right;
+        font-size: 0.8rem;
+        display: inline-block;
+        padding: 0 15px;
+        border-right: 1px solid #333;
+        margin-top: -8px;
+        margin-right: 15px;
+    }
+
+    .banner-cards {
+       /* background: #f0b436;
+        height: 211px;
+        border-left: 1px solid #fff;
+        border-bottom: 1px dashed #fff;
+        margin: 0 -15px;*/
+    }
+
+    .card-title {
+        font-size: 24px;
+        display: inline-block;
+        margin: 140px 0 15px;
+        color: #333;
+    }
+
+    .card-text {
+        font-size: 14px;
+    }
+
+    .doctor247-card {
+        background: url(../img/icon1.svg) 50% 50px #f0b436 no-repeat;
+        background-size: 30%;
+    }
+
+    .book-online-card {
+        background: url(../img/icon2.svg) 50% 50px #f0b436 no-repeat;
+        background-size: 30%;
+    }
+
+    .web-chat-card {
+        background: url(../img/icon3.svg) 50% 60px #f0b436 no-repeat;
+        background-size: 30%;
+    }
+
+    .doctor-calls-card {
+        background: url(../img/icon4.svg) 50% 45px #f0b436 no-repeat;
+        background-size: 30%;
+    }
+
+    .quick-connect-conainer .btn-secondary {
+        margin: 0 10px;
+    }
+
+    .margin-t-30 {
+        margin-top: 30px;
+
+    }
+
+    .no-margin-mobile {
+        margin: 0 -15px;
+    }
+
+    .banner-div {
+        margin-right: -15px;
+    }
+
+    .quick-connect-conainer {
+        background: url("../img/quick-con-bg.png") 50% 100% no-repeat;
+        padding: 120px 0 25px;
+        min-height: 0;
+    }
+
+    .quick-connect-conainer .search-button {
+        padding: 0.6rem 0.8rem;
+        margin: 0 10px;
+        border-radius: 10px;
+        width: auto;
+    }
+
+    .why-dp-tab .content-div {
+        min-height: 301px;
+    }
+
+    .testimonial {
+        width: 370px;
+        /*height: 236px;*/
+        padding: 20px 20px;
+        color: #fff;
+        font-weight: 300;
+        line-height: 1.4rem;
+        position: relative;
+        margin: -140px 0 0 180px;
+    }
+
+    .testimonial2 {
+        margin: -275px 0 0 200px;
+    }
+
+    .testimonial3 {
+        margin: -275px 0 0 0px;
+    }
+
+    .testimonial4 {
+        margin: -127px 0 0 0px;
+    }
+
+    .testimonial-container {
+        background: url("../img/testimonial-bg.png") 0 0 no-repeat;
+        min-height: 799px;
+    }
+
+    .newsletter-container {
+        background: url("../img/newsletter-bg.png") 0 0 no-repeat;
+        min-height: 410px;
+    }
+
+    .Subscribe-div {
+        margin-top: 90px;
+    }
+
+    .subscribe-container {
+        border: 1px solid #d4d4d4;
+        border-radius: 10px;
+        padding: 15px 10px;
+        background: #fff;
+    }
+
+    .subscribe-container .form-control {
+        border: 0;
+
+    }
+
+    .sitemap {
+        margin: 50px 0 100px;
+    }
+
+    .footer-head {
+        margin: 0 0 1.6rem;
+    }
+
+    .footer a {
+        color: #fff;
+        font-size: 13px;
+        margin-left: 20px;
+        width: auto;
+    }
+
+    .footer-logo {
+        width: 208px;
+    }
+}
+
+@media (min-width: 992px) {
+    .wrapper {
+        width: 1170px;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .navbar {
+        padding: 0.5rem 0;
+    }
+
+    .header-link {
+        float: right;
+        margin-top: -10px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 0rem 1rem;
+        border-right: 1px solid #333;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item:last-child .nav-link {
+        border-right: 0;
+        margin-top: -3px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item:last-child a span {
+        font-size: 22px;
+        display: inline-block;
+        margin-left: 10px;
+    }
+
+    .logo {
+        width: 208px;
+    }
+
+    .navbar-light .navbar-nav .active>.nav-link,
+    .navbar-light .navbar-nav .nav-link.active,
+    .navbar-light .navbar-nav .nav-link.show,
+    .navbar-light .navbar-nav .show>.nav-link {
+        font-weight: 500;
+    }
+
+    #nav-bar {
+        margin-left: 30px;
+    }
+}
+
+.animation {
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.cardContainer {
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -ms-transition: all .3s ease;
+  transition: all .3s ease;
+  
+  -webkit-perspective: 800px;
+  -moz-perspective: 800px;
+  -o-perspective: 800px;
+  perspective: 800px;
+}
+
+.card {
+    cursor: pointer;
+  background: #f0b436;
+    height: 211px;
+    border-left: 1px solid #fff;
+    border-bottom: 1px dashed #fff;
+    margin: 0 -15px;
+  -webkit-transition: -webkit-transform 0.6s;
+  -moz-transition: -moz-transform 0.6s;
+  -o-transition: -o-transform 0.6s;
+  transition: transform 0.6s;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+
+.card.flipped {
+  -webkit-transform: rotateY( 180deg);
+  -moz-transform: rotateY( 180deg);
+  -o-transform: rotateY( 180deg);
+  transform: rotateY( 180deg);
+}
+
+.card.flipped: {}
+
+.card .front {
+  background: #333
+}
+
+.card .front,
+.card .back {
+  display: block;
+  width: 100%;
+  position: absolute;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.card .back {
+  width: 100%;
+  font-size: 16px;
+  text-align: left;
+  line-height: 25px;
+}
+
+.card .back {
+  -webkit-transform: rotateY( 180deg);
+  -moz-transform: rotateY( 180deg);
+  -o-transform: rotateY( 180deg);
+  transform: rotateY( 180deg);
+}

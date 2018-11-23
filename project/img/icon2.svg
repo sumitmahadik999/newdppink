@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="421" viewBox="0 0 440 421">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #333;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #333;
+        stroke-width: 25px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M352.1,185.077V91.945s0.605-27.885-36.4-27.885c0,0,4.838,34.576-24.359,36.818S266.06,64.206,266.06,64.206l-146.225-.684s5.975,35.063-25.418,37.383A23.238,23.238,0,0,1,74.6,89.166c-3.184-5.473-4.454-13.493-4.352-25.244,0,0-36.473-4.3-36.473,25.33v215.3s-1.465,28.375,27.971,28.375H204.71V308.122H58.734V135.609H328.117v49.863Z"/>
+  <circle class="cls-2" cx="327.953" cy="307.844" r="98.047"/>
+  <rect id="Rounded_Rectangle_3" data-name="Rounded Rectangle 3" class="cls-3" x="303.875" y="259.906" width="22.469" height="72.063" rx="10" ry="10"/>
+  <path id="Rounded_Rectangle_3_copy" data-name="Rounded Rectangle 3 copy" class="cls-1" d="M376.011,319.1l0.022,2.469a10,10,0,0,1-9.911,10.088l-52.061.463a10,10,0,0,1-10.088-9.911l-0.022-2.468a10,10,0,0,1,9.911-10.089l52.06-.462A10,10,0,0,1,376.011,319.1Z"/>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-3" x="83.125" y="15.688" width="23.75" height="71.219" rx="10" ry="10"/>
+  <rect id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-3" x="279.125" y="15.688" width="23.75" height="71.219" rx="10" ry="10"/>
+  <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-3" x="82.281" y="161.438" width="49.031" height="48.187" rx="10" ry="10"/>
+  <rect id="Rounded_Rectangle_2_copy" data-name="Rounded Rectangle 2 copy" class="cls-3" x="156.281" y="161.438" width="49.031" height="48.187" rx="10" ry="10"/>
+  <rect id="Rounded_Rectangle_2_copy_3" data-name="Rounded Rectangle 2 copy 3" class="cls-3" x="82.281" y="235.438" width="49.031" height="48.187" rx="10" ry="10"/>
+  <rect id="Rounded_Rectangle_2_copy_3-2" data-name="Rounded Rectangle 2 copy 3" class="cls-3" x="156.281" y="235.438" width="49.031" height="48.187" rx="10" ry="10"/>
+  <rect id="Rounded_Rectangle_2_copy_2" data-name="Rounded Rectangle 2 copy 2" class="cls-3" x="230.281" y="161.438" width="49.031" height="48.187" rx="10" ry="10"/>
+</svg>
